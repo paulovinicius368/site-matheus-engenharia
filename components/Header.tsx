@@ -49,7 +49,7 @@ const Header: React.FC = () => {
             <img 
               src="/images/mgl engenharia.png" 
               alt="MGL Engenharia - Logo" 
-              className="h-48 w-auto object-contain bg-transparent border-2 border-black rounded-lg"
+              className="h-36 w-auto object-contain bg-transparent border-2 border-black rounded-lg"
               style={{ 
                 filter: 'drop-shadow(0 2px 4px rgba(0,0,0,0.1))',
                 mixBlendMode: 'multiply'
